@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="{!! asset('css/style.css')!!}">
 </head>
 <body>
+    <!--Footer-->
     <div class="footer">
         Made by A. Rebeca T. P.
     </div>
